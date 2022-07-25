@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test-Application</string>
+    <string name="Quan_intro">Hello World, it\'s Quan! Android depvelopment is interesting, isn\'t it? Also, I enjoy studying AI, too!</string>
+    <string name="btn_text">Hello World</string>
+</resources>
