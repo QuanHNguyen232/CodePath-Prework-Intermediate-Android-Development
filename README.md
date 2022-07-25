@@ -4,7 +4,7 @@ Submitted by: **Quan Nguyen**
 
 **simple-android-app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -17,16 +17,16 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [X] Open Camera and take picture
-* [ ] Stopwatch timer
+* [X] Chronometer
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walk-through.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LiceCap](http://www.cockos.com/licecap/).  
+GIF created with [ScreenToGif](https://www.screentogif.com/) ver.2.37 portable (x64).  
 <!-- Other options include:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
